@@ -1,0 +1,69 @@
+NAWAL SHINGARI
+Delhi, India | 9310393188 | nawal2op123@gmail.com | LinkedIn: linkedin.com/in/nawalshingari | GitHub: github.com/nawalshingari
+
+────────────────────────────────────────────────────────────────────────────────
+
+PROFESSIONAL SUMMARY
+
+Analytically rigorous and creatively driven tech professional pursuing dual degrees — a BCA (CGPA 9.1/10, GGSIPU) and a BS in Data Science (IIT Madras) — simultaneously, demonstrating uncommon intellectual bandwidth. Skilled in Python, Machine Learning, NLP, and Data Analysis, with hands-on experience building end-to-end ML pipelines. Certified in Generative AI (Microsoft) with deep practical fluency in LLMs, Prompt Engineering, and modern AI tools. What sets me apart: I combine rigorous technical thinking with strong communication, content strategy, and creative direction — making me equally effective as a data practitioner or as a tech-facing strategist in marketing, product, or brand roles.
+
+────────────────────────────────────────────────────────────────────────────────
+
+SKILLS
+
+Technical:    Python | Machine Learning | Data Analysis | NLP | Scikit-learn | TF-IDF | Bag of Words
+              Data Structures & Algorithms | Statistical Thinking | Feature Engineering | Data Preprocessing
+
+AI & ML:      Generative AI | Prompt Engineering | LLM Understanding | ChatGPT | Gemini | AI Tool Stack
+
+Creative:     Content Creation | Content Strategy | Digital Marketing | Copywriting | Brand Storytelling
+              Consumer Psychology | Creative Direction | Audience Growth
+
+Workflow:     Cross-domain Problem Solving | Rapid Prototyping | No-code Thinking | Communication
+
+────────────────────────────────────────────────────────────────────────────────
+
+EDUCATION
+
+Bachelor of Computer Applications (BCA)                                         2023 – Present
+GGSIPU-Affiliated College, Janakpuri, New Delhi
+CGPA: 9.1 / 10 | 4th Semester (Ongoing)
+
+BS in Data Science                                                               2023 – Present
+IIT Madras (Indian Institute of Technology Madras) — Online Degree Program
+Ongoing | Pursuing simultaneously with BCA — a rare dual-enrollment achievement
+
+────────────────────────────────────────────────────────────────────────────────
+
+PROJECTS
+
+Sentiment Analysis of Tweets — Binary Classification ML System               Python | NLP | Scikit-learn
+- Engineered a full end-to-end NLP pipeline from raw tweet collection through cleaning, preprocessing,
+  feature extraction (TF-IDF / Bag of Words), model training, and evaluation
+- Built a supervised binary classification model (Positive / Negative) with measurable accuracy
+- Applied text normalization, stop-word removal, and tokenization to improve model precision
+- Demonstrated ability to own a complete data science lifecycle independently
+
+────────────────────────────────────────────────────────────────────────────────
+
+CERTIFICATIONS
+
+Generative AI for Beginners                                                        Microsoft | 2024
+Microsoft Developer Program — Completed structured curriculum on GenAI, LLMs, and AI application design
+
+────────────────────────────────────────────────────────────────────────────────
+
+EXTRACURRICULAR ACTIVITIES & PERSONAL BRAND
+
+Content Creation (Tech + Lifestyle)
+- Building a digital audience across platforms, applying consumer psychology and data-driven content
+  strategy to grow engagement in the tech and lifestyle niche
+
+Music Production
+- Producing original rap beats — demonstrating pattern recognition, creative discipline, and systems
+  thinking applied to an artistic domain
+
+Fitness & Personal Development
+- Consistent gym practice as a framework for self-discipline, goal setting, and sustained performance
+
+────────────────────────────────────────────────────────────────────────────────
